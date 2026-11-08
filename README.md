@@ -80,6 +80,6 @@ Room_Occupancy_ML_Project/
     ├── random_forest.pkl
     ├── svm.pkl
     ├── knn.pkl
+    ├── naive_bayes.pkl
     ├── scaler.pkl
     └── feature_columns.pkl
-    |__ naive_bayes.pkl
