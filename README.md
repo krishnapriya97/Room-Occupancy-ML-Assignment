@@ -84,5 +84,4 @@ Room_Occupancy_ML_Project/
     ├── scaler.pkl
     └── feature_columns.pkl
 
-    Streamlink application link : https://room-occupancy-ml-assignment-max3skvyvbyetg3zknubzf.streamlit.app/
-    
+    Streamlit app link : https://room-occupancy-ml-assignment-max3skvyvbyetg3zknubzf.streamlit.app/
