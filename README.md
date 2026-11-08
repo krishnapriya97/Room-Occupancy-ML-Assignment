@@ -40,6 +40,7 @@ Five classification algorithms were implemented:
 4. Support Vector Machine (SVM)
 5. K-Nearest Neighbors (KNN)
 6. Gaussian Naive Bayes
+
 ## 5. Evaluation Metrics
 
 The models were evaluated using:
@@ -60,7 +61,7 @@ The models were evaluated using:
 | Random Forest | 0.9970 | 0.9997 | 0.9971 | 0.9970 | 0.9970 | 0.9910 |
 | SVM | 0.9970 | 0.9999 | 0.9971 | 0.9970 | 0.9970 | 0.9910 |
 | KNN | 0.9951 | 0.9992 | 0.9952 | 0.9951 | 0.9951 | 0.9850 |
-
+| Gaussian Niave Bayes | 0.9615 | 0.9969 | 0.9630 | 0.9615 | 0.9616 |0.8844 | 
 ## 7. Project Structure
 
 ```text

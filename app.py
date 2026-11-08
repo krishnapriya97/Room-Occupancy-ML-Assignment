@@ -51,7 +51,10 @@ models = {
     ),
     "KNN": joblib.load(
         os.path.join(MODEL_DIR, "knn.pkl")
-    )
+    ),
+     "Gaussian Naive Bayes": joblib.load(
+        os.path.join(MODEL_DIR, "naive_bayes.pkl")
+    ),
 }
 
 scaler = joblib.load(
