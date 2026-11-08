@@ -39,7 +39,7 @@ Five classification algorithms were implemented:
 3. Random Forest
 4. Support Vector Machine (SVM)
 5. K-Nearest Neighbors (KNN)
-
+6. Gaussian Naive Bayes
 ## 5. Evaluation Metrics
 
 The models were evaluated using:
@@ -81,3 +81,4 @@ Room_Occupancy_ML_Project/
     ├── knn.pkl
     ├── scaler.pkl
     └── feature_columns.pkl
+    |__ naive_bayes.pkl
