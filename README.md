@@ -83,3 +83,6 @@ Room_Occupancy_ML_Project/
     ├── naive_bayes.pkl
     ├── scaler.pkl
     └── feature_columns.pkl
+
+    Streamlink application link : https://room-occupancy-ml-assignment-max3skvyvbyetg3zknubzf.streamlit.app/
+    
